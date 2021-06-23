@@ -1,0 +1,26 @@
+.ansrow{
+	background-color: rgb(160, 160, 160);
+}
+
+.calrow {
+	border-bottom:0.5px solid  rgba(128, 128, 128, 0.329);
+	background-color: #e0e0e0;
+}
+
+.calcol {
+	border-right: solid thin rgba(128, 128, 128, 0.151);
+}
+
+.signcol {
+	background: #f5923d;
+	
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+}
+
+h2 {
+	text-align: center;
+}
